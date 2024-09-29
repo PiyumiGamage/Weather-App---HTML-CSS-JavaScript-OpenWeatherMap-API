@@ -9,7 +9,7 @@ This project is a simple weather application that provides real-time weather upd
 - Integrated with **OpenWeatherMap API**
 
 ## Technologies Used
-- **HTML5**
-- **CSS3**
-- **JavaScript (ES6)**
+- **HTML**
+- **CSS**
+- **JavaScript**
 - **OpenWeatherMap API**
